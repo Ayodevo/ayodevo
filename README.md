@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ayadi Oussama</h1>
 <h3 align="center">Web Developer</h3>
 
+- 🔭 I'm based in Tunisia. **I have a specialized technician degree in full-stack development from ISI Kef (Institut Supérieur d'Informatique du Kef). With 5 years of experience, I specialize in Laravel as a full-stack framework, and I also love using MySQL and MongoDB for databases, and Tailwind CSS for styling.**
+
 - 🌱 I’m currently learning **laravel**
 
 - 💬 Ask me about **laravel , php , html5, css , js**
